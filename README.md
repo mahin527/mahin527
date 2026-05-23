@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=180&section=header&text=Welcome%20to%20my%20Coding%20World!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&fontAlign=50" width="100%" alt="Header"/>
-</div>
-
 <h1 align="center">👋 Hi, I'm Mahin Hasan</h1>
 <h3 align="center">Shopify & MERN Stack Developer</h3>
 
@@ -113,7 +109,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer&animation=twinkling" width="100%" alt="Footer"/>
-</div>
