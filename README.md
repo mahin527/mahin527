@@ -3,47 +3,6 @@
 
 ---
 
-## 🚀 I'm Currently Working On
-
-- 🔭 Building **Monohem** — a custom Shopify theme using Liquid, Tailwind CSS & JavaScript
-- 🌱 Learning **MERN Stack, Next.js & Golang**
-- 💬 Ask me about **Shopify, Liquid, React & Express**
-- 📫 Reach me at: **hasan.mahin527@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🛍️ Shopify Development
-
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-0e75b6?style=for-the-badge&logo=shopify&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 💻 Full Stack
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb&theme=dark" alt="MERN Stack" />
-
-### 🐹 Also Exploring
-<img src="https://skillicons.dev/icons?i=go,python&theme=dark" alt="Golang Python" />
-
-### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <img alt="Mahin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin527&bg_color=0d1117&color=ffffff&line=0e75b6&point=ffffff&area=true&hide_border=true" />
-</div>
-
 ## 🔥 GitHub Streak
 
 <div align="center">
