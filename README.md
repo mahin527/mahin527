@@ -1,47 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mahin Hasan</h1>
-<h3 align="center">Shopify & MERN Stack Developer</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahin527&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mahin527?style=for-the-badge&color=0e75b6&label=FOLLOWERS" alt="Followers" />
-</div>
-
----
-
-## 🎯 About Me
-
-<p align="center">
-🛍️ Building Shopify themes with <strong>Liquid, Tailwind CSS & JavaScript</strong><br>
-⚙️ Learning the <strong>MERN Stack</strong> and <strong>Next.js</strong> to go full-stack<br>
-🐹 Exploring <strong>Golang</strong> for backend performance<br>
-🚀 Always shipping, always learning<br>
-<strong>⚡ My code runs on caffeine and curiosity ⚡</strong>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:hasan.mahin527@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-mahin-hasan-romjan-95789a402/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-   <a href="https://wa.me/+8801875367720" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" />
-  </a>
-  <a href="https://www.facebook.com/md.mahin.hassan.738742/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</div>
+<h4 align="center">Shopify Expert & Full Stack Web Developer</h3>
 
 ---
 
@@ -92,20 +50,21 @@
   <img src="https://streak-stats.demolab.com/?user=mahin527&theme=algolia&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=94a3b8" alt="GitHub Streak" />
 </div>
 
-## 💻 GitHub Stats
-
+---
+<h3 align="center">🤝 Connect With Me</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahin527&theme=algolia" alt="Profile Summary" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahin527&theme=algolia" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahin527&theme=algolia" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahin527&theme=algolia" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahin527&theme=algolia&utcOffset=6" alt="Productive Time" />
+  <a href="mailto:hasan.mahin527@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-mahin-hasan-romjan-95789a402/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+   <a href="https://wa.me/+8801875367720" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/md.mahin.hassan.738742/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
 ---
