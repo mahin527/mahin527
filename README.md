@@ -6,7 +6,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mahin527&theme=algolia&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=94a3b8" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=mahin527&theme=algolia&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=94a3b8" alt="GitHub Streak" />
 </div>
 
 ---
