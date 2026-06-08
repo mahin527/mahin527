@@ -3,13 +3,16 @@
 
 ---
 
-## 🔥 GitHub Streak
+<h3 align="center"> 🔥 GitHub Streak </h3>
 
 <div align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=mahin527&theme=algolia&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=94a3b8" alt="GitHub Streak" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahin527&theme=nord_dark" alt="Top Languages" />
+</div>
+
 <h3 align="center">🤝 Connect With Me</h3>
 <div align="center">
   <a href="mailto:hasan.mahin527@gmail.com">
