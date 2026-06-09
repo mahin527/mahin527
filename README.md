@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahin527&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahin527&theme=nord_dark" />
+  <img src="https://raw.githubusercontent.com/mahin527/mahin527/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/mahin527/mahin527/main/profile-summary-card-output/github_dark/3-stats.svg" />
 </div>
 
 <h3 align="center">🤝 Connect With Me</h3>
